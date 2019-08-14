@@ -1,2 +1,2 @@
-# Kamha-Dicoding-Android-Pemula
-Project Kelas Belajar Membuat Aplikasi Android untuk Pemula
+# Kelas Android Pemula Dicoding Submission
+Submitted and Approved on Aug 10, 2019.
